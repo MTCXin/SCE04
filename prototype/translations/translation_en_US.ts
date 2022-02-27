@@ -56,6 +56,14 @@
         </message>
     </context>
     <context>
+        <name>Reminder/behavior.xar:/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Say</name>
         <message>
             <source>Hello</source>
