@@ -284,8 +284,10 @@ class MyClass(GeneratedClass):
         if self.asr:
             self.asr.setLanguage( self.getParameter("Language") )
         self.onReady()]]></content></script><Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when diagram is loaded." id="1" /><Input name="onSet" type="1" type_size="1" nature="1" inner="0" tooltip="The data is set when a signal is received on this input." id="2" /><Output name="onReady" type="1" type_size="1" nature="2" inner="0" tooltip="Signal sent when the data has been set." id="3" /><Parameter name="Language" inherits_from_parent="0" content_type="3" value="English" default_value="English" custom_choice="1" tooltip="Set the language the robot understands." id="4"><Choice value="Arabic" /><Choice value="Brazilian" /><Choice value="Chinese" /><Choice value="Czech" /><Choice value="Danish" /><Choice value="Dutch" /><Choice value="English" /><Choice value="Finnish" /><Choice value="French" /><Choice value="German" /><Choice value="Greek" /><Choice value="Italian" /><Choice value="Japanese" /><Choice value="Korean" /><Choice value="MandarinTaiwan" /><Choice value="Norwegian" /><Choice value="Polish" /><Choice value="Portuguese" /><Choice value="Russian" /><Choice value="Spanish" /><Choice value="Swedish" /><Choice value="Turkish" /></Parameter><Resource name="Speech recognition" type="Lock" timeout="0" /></Box><Box name="Wait For Signals" id="11" localization="8" tooltip="Wait for both inputs to be stimulated before stimulating its output." x="611" y="540"><bitmap>media/images/box/wait.png</bitmap><script language="4"><content><![CDATA[class MyClass(GeneratedClass):
+
     def __init__(self):
         GeneratedClass.__init__(self, False)
+        self.instructions_passed = ""
 
     def onLoad(self):
         self.ok = [False]*2
@@ -297,19 +299,18 @@ class MyClass(GeneratedClass):
     def onStart(self, nInput, text):
         self.ok[nInput-1] = True
         bOutput = True
-        if text != "blank":
-            instructions_passed = text
         for bOk in self.ok:
             bOutput = bOutput and bOk
         if( bOutput ):
             self.ok = [False]*2
-            self.signalsReceived(instructions_passed)
+            self.signalsReceived(self.instructions_passed)
 
     def onInput_signal1(self, p):
-        self.onStart(1, p)
+        self.instructions_passed = p
+        self.onStart(1)
 
     def onInput_signal2(self):
-        self.onStart(2, "blank")]]></content></script><Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when Diagram is loaded." id="1" /><Input name="signal1" type="3" type_size="1" nature="1" inner="0" tooltip="First signal to wait." id="2" /><Input name="signal2" type="1" type_size="1" nature="1" inner="0" tooltip="Second signal to wait." id="3" /><Output name="signalsReceived" type="3" type_size="1" nature="2" inner="0" tooltip="Signal sent when both inputs have been stimulated." id="4" /></Box><Box name="Failure speech" id="12" localization="8" tooltip="Say some text. The text can be localized." x="190" y="668"><bitmap>media/images/box/interaction/say.png</bitmap><script language="4"><content><![CDATA[import time
+        self.onStart(2)]]></content></script><Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when Diagram is loaded." id="1" /><Input name="signal1" type="3" type_size="1" nature="1" inner="0" tooltip="First signal to wait." id="2" /><Input name="signal2" type="1" type_size="1" nature="1" inner="0" tooltip="Second signal to wait." id="3" /><Output name="signalsReceived" type="3" type_size="1" nature="2" inner="0" tooltip="Signal sent when both inputs have been stimulated." id="4" /></Box><Box name="Failure speech" id="12" localization="8" tooltip="Say some text. The text can be localized." x="190" y="668"><bitmap>media/images/box/interaction/say.png</bitmap><script language="4"><content><![CDATA[import time
 
 class MyClass(GeneratedClass):
     def __init__(self):
