@@ -18,10 +18,15 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Would you like to start over or redo last step?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Would you like to start over or redo last step?</translation>
+            <translation type="obsolete">Would you like to start over or redo last step?</translation>
+        </message>
+        <message>
+            <location filename="Activity advanced/behavior.xar" line="0"/>
+            <source>Would you like to start over, redo last step, or stop the activity?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Would you like to start over, redo last step, or stop the activity?</translation>
         </message>
     </context>
     <context>
@@ -30,6 +35,21 @@
             <source>Hello</source>
             <comment>Text</comment>
             <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="Activity advanced/behavior.xar" line="0"/>
+            <source>Please speak proper English</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Please speak proper English</translation>
+        </message>
+    </context>
+    <context>
+        <name>Activity advanced/behavior.xar:/Say (2)</name>
+        <message>
+            <location filename="Activity advanced/behavior.xar" line="0"/>
+            <source>Please speak proper English</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Please speak proper English</translation>
         </message>
     </context>
     <context>
@@ -88,10 +108,23 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="hello/behavior.xar" line="0"/>
             <source>Hello Mathieu!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Hello Mathieu!</translation>
+            <translation type="obsolete">Hello Mathieu!</translation>
+        </message>
+    </context>
+    <context>
+        <name>hello/behavior.xar:/Say (1)</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="hello/behavior.xar" line="0"/>
+            <source>Hello Pietro</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Hello Pietro</translation>
         </message>
     </context>
 </TS>

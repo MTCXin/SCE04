@@ -14,7 +14,19 @@
         <File name="choice_sentences_light" src="Activity advanced/Aldebaran/choice_sentences_light.xml" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src="time_reminder/ExampleDialog/ExampleDialog_enu.top" />
+        <Path src="time_reminder/behavior.xar" />
+        <Path src="sounds" />
+        <Path src="time_reminder/ExampleDialog" />
+        <Path src="time_reminder" />
+        <Path src="time_reminder/Aldebaran" />
+        <Path src="time_reminder/Aldebaran/choice_sentences_light.xml" />
+        <Path src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
+        <Path src="sounds/530265__dominictreis__morning-transition-music.wav" />
+        <Path src="event" />
+        <Path src="event/behavior.xar" />
+    </IgnoredPaths>
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
     </Translations>
