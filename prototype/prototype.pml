@@ -9,8 +9,11 @@
         <BehaviorDescription name="behavior" src="hello" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="event" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="time_reminder" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="evaluation_activity" xar="behavior.xar" />
     </BehaviorDescriptions>
-    <Dialogs />
+    <Dialogs>
+        <Dialog name="ExampleDialog" src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
+    </Dialogs>
     <Resources>
         <File name="choice_sentences" src="Activity advanced/Aldebaran/choice_sentences.xml" />
         <File name="choice_sentences_light" src="Activity advanced/Aldebaran/choice_sentences_light.xml" />
