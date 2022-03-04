@@ -127,4 +127,37 @@
             <translation type="unfinished">Hello Pietro</translation>
         </message>
     </context>
+    <context>
+        <name>time_reminder/behavior.xar:/First Reminder</name>
+        <message>
+            <location filename="time_reminder/behavior.xar" line="0"/>
+            <source>You have to take your medicine at</source>
+            <comment>TextBefore</comment>
+            <translation type="unfinished">You have to take your medicine at</translation>
+        </message>
+        <message>
+            <location filename="time_reminder/behavior.xar" line="0"/>
+            <source>Did you already take it?</source>
+            <comment>TextAfter</comment>
+            <translation type="unfinished">Did you already take it?</translation>
+        </message>
+    </context>
+    <context>
+        <name>time_reminder/behavior.xar:/Negative Response</name>
+        <message>
+            <location filename="time_reminder/behavior.xar" line="0"/>
+            <source>Please make sure you take your medicine!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Please make sure you take your medicine!</translation>
+        </message>
+    </context>
+    <context>
+        <name>time_reminder/behavior.xar:/Positive Response</name>
+        <message>
+            <location filename="time_reminder/behavior.xar" line="0"/>
+            <source>Good Job!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Good Job!</translation>
+        </message>
+    </context>
 </TS>
