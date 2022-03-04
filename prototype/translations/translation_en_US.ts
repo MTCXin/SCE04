@@ -42,6 +42,15 @@
         </message>
     </context>
     <context>
+        <name>Activity advanced/behavior.xar:/Say stop</name>
+        <message>
+            <location filename="Activity advanced/behavior.xar" line="0"/>
+            <source>Okay, let's stop!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's stop!</translation>
+        </message>
+    </context>
+    <context>
         <name>Activity/behavior.xar:/Say</name>
         <message>
             <source>Hello</source>
@@ -69,6 +78,20 @@
             <source>Hello</source>
             <comment>Text</comment>
             <translation type="vanished">Hello</translation>
+        </message>
+    </context>
+    <context>
+        <name>hello/behavior.xar:/Say</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="hello/behavior.xar" line="0"/>
+            <source>Hello Mathieu!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Hello Mathieu!</translation>
         </message>
     </context>
 </TS>

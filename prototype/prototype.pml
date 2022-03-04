@@ -6,6 +6,7 @@
         <BehaviorDescription name="behavior" src="Activity" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Activity advanced" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Reminder" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="hello" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
