@@ -19,6 +19,12 @@
         <File name="530265__dominictreis__morning-transition-music" src="sounds/530265__dominictreis__morning-transition-music.wav" />
         <File name="choice_sentences_light" src="time_reminder/Aldebaran/choice_sentences_light.xml" />
         <File name="paperplane" src="imgs/paperplane.png" />
+        <File name="pp1" src="imgs/pp1.png" />
+        <File name="pp2" src="imgs/pp2.png" />
+        <File name="pp3" src="imgs/pp3.png" />
+        <File name="pp4" src="imgs/pp4.png" />
+        <File name="pp5" src="imgs/pp5.png" />
+        <File name="pp6" src="imgs/pp6.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
