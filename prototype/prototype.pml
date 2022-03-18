@@ -12,7 +12,9 @@
         <BehaviorDescription name="behavior" src="testimg" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="evaluation_activity" xar="behavior.xar" />
     </BehaviorDescriptions>
-    <Dialogs />
+    <Dialogs>
+        <Dialog name="ExampleDialog" src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
+    </Dialogs>
     <Resources>
         <File name="choice_sentences" src="Activity advanced/Aldebaran/choice_sentences.xml" />
         <File name="choice_sentences_light" src="Activity advanced/Aldebaran/choice_sentences_light.xml" />
@@ -25,6 +27,12 @@
         <File name="pp4" src="html/pp4.png" />
         <File name="pp5" src="html/pp5.png" />
         <File name="pp6" src="html/pp6.png" />
+        <File name="gardening2" src="html/gardening2.png" />
+        <File name="gardening4" src="html/gardening4.png" />
+        <File name="gardening5" src="html/gardening5.png" />
+        <File name="gardening6" src="html/gardening6.png" />
+        <File name="gardening7" src="html/gardening7.png" />
+        <File name="gardening1" src="html/gardening1.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />

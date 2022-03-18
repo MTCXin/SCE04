@@ -117,10 +117,15 @@
     <context>
         <name>evaluation_activity/behavior.xar:/Failure speech</name>
         <message>
-            <location filename="evaluation_activity/behavior.xar" line="0"/>
             <source>Don't worry, that happens to everyone!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Don't worry, that happens to everyone!</translation>
+            <translation type="obsolete">Don't worry, that happens to everyone!</translation>
+        </message>
+        <message>
+            <location filename="evaluation_activity/behavior.xar" line="0"/>
+            <source>Don't worry, that's not a problem at all!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Don't worry, that's not a problem at all!</translation>
         </message>
     </context>
     <context>
@@ -140,10 +145,15 @@
             <translation type="obsolete">Please speak proper English</translation>
         </message>
         <message>
-            <location filename="evaluation_activity/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+            <translation type="obsolete">Sorry, I didn't understand you.</translation>
+        </message>
+        <message>
+            <location filename="evaluation_activity/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Did you complete the step?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Did you complete the step?</translation>
         </message>
     </context>
     <context>
@@ -168,10 +178,15 @@
             <translation type="obsolete">Please speak proper English</translation>
         </message>
         <message>
-            <location filename="evaluation_activity/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+            <translation type="obsolete">Sorry, I didn't understand you.</translation>
+        </message>
+        <message>
+            <location filename="evaluation_activity/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Do you want to do it now?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
         </message>
     </context>
     <context>
