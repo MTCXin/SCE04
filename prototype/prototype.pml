@@ -11,6 +11,8 @@
         <BehaviorDescription name="behavior" src="time_reminder" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="testimg" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="evaluation_activity" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Medication Remind" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Meal Reminder" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="ExampleDialog" src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
@@ -33,6 +35,7 @@
         <File name="gardening6" src="html/gardening6.png" />
         <File name="gardening7" src="html/gardening7.png" />
         <File name="gardening1" src="html/gardening1.png" />
+        <File name="gardening3" src="html/gardening3.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
