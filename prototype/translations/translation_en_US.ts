@@ -174,6 +174,69 @@
         </message>
     </context>
     <context>
+        <name>WakeUp/behavior.xar:/Animated Say</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Okay, let's start it!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's start it!</translation>
+        </message>
+    </context>
+    <context>
+        <name>WakeUp/behavior.xar:/Animated Say (1)</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Okay, let's start it!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's start it!</translation>
+        </message>
+    </context>
+    <context>
+        <name>WakeUp/behavior.xar:/Say</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Do you want to do it now?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+        </message>
+    </context>
+    <context>
+        <name>WakeUp/behavior.xar:/Say (1)</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Okay, that's not a problem, we'll do later!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, that's not a problem, we'll do later!</translation>
+        </message>
+    </context>
+    <context>
+        <name>WakeUp/behavior.xar:/Say (3)</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Do you want to do it now?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+        </message>
+    </context>
+    <context>
+        <name>WakeUp/behavior.xar:/Say (4)</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Okay, that's not a problem, we'll do later!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, that's not a problem, we'll do later!</translation>
+        </message>
+    </context>
+    <context>
+        <name>WakeUp/behavior.xar:/Say stop</name>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Okay, let's stop!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's stop!</translation>
+        </message>
+    </context>
+    <context>
         <name>behavior_1/behavior.xar:/Say</name>
         <message>
             <source>Hello</source>

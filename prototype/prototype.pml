@@ -13,6 +13,7 @@
         <BehaviorDescription name="behavior" src="evaluation_activity" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Medication Remind" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Meal Reminder" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="WakeUp" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="ExampleDialog" src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
@@ -38,6 +39,8 @@
         <File name="gardening3" src="html/gardening3.png" />
         <File name="MealR" src="html/MealR.png" />
         <File name="MedR" src="html/MedR.png" />
+        <File name="calendar_event_location_you_have_to_go" src="html/calendar_event_location_you_have_to_go.png" />
+        <File name="calendar_event_reminder_social_event" src="html/calendar_event_reminder_social_event.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
