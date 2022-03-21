@@ -380,6 +380,96 @@
         </message>
     </context>
     <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Ask what to do</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Would you like to start over, redo last step, or stop the activity?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Would you like to start over, redo last step, or stop the activity?</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Do Activity</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Okay, let's start it!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's start it!</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Don't do activity</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Okay, that's not a problem, we'll do later!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, that's not a problem, we'll do later!</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Failure speech</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Don't worry, that's not a problem at all!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Don't worry, that's not a problem at all!</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/NU, beginning</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Do you want to do it now?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/NU, failure</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/NU, step</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Did you complete the step?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Did you complete the step?</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Say early stop</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Okay, let's stop!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's stop!</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Say end legit</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Great, you finished the activity!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Great, you finished the activity!</translation>
+        </message>
+    </context>
+    <context>
+        <name>evaluation_activity_improvements/behavior.xar:/Say restart</name>
+        <message>
+            <location filename="evaluation_activity_improvements/behavior.xar" line="0"/>
+            <source>Okay, let's restart!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's restart!</translation>
+        </message>
+    </context>
+    <context>
         <name>hello/behavior.xar:/Say</name>
         <message>
             <source>Hello</source>

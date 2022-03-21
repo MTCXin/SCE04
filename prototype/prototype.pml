@@ -14,6 +14,7 @@
         <BehaviorDescription name="behavior" src="Medication Remind" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Meal Reminder" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="WakeUp" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="evaluation_activity_improvements" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs>
         <Dialog name="ExampleDialog" src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
