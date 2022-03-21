@@ -36,6 +36,8 @@
         <File name="gardening7" src="html/gardening7.png" />
         <File name="gardening1" src="html/gardening1.png" />
         <File name="gardening3" src="html/gardening3.png" />
+        <File name="MealR" src="html/MealR.png" />
+        <File name="MedR" src="html/MedR.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
