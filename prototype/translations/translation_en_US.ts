@@ -4,10 +4,9 @@
     <context>
         <name>Activity advanced/behavior.xar:/Failure speech</name>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Don't worry, that happens to everyone!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Don't worry, that happens to everyone!</translation>
+            <translation type="obsolete">Don't worry, that happens to everyone!</translation>
         </message>
     </context>
     <context>
@@ -23,10 +22,9 @@
             <translation type="obsolete">Would you like to start over or redo last step?</translation>
         </message>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Would you like to start over, redo last step, or stop the activity?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Would you like to start over, redo last step, or stop the activity?</translation>
+            <translation type="obsolete">Would you like to start over, redo last step, or stop the activity?</translation>
         </message>
     </context>
     <context>
@@ -37,37 +35,33 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Please speak proper English</source>
             <comment>Text</comment>
-            <translation type="unfinished">Please speak proper English</translation>
+            <translation type="obsolete">Please speak proper English</translation>
         </message>
     </context>
     <context>
         <name>Activity advanced/behavior.xar:/Say (2)</name>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Please speak proper English</source>
             <comment>Text</comment>
-            <translation type="unfinished">Please speak proper English</translation>
+            <translation type="obsolete">Please speak proper English</translation>
         </message>
     </context>
     <context>
         <name>Activity advanced/behavior.xar:/Say end</name>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Great, you finished the activity!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Great, you finished the activity!</translation>
+            <translation type="obsolete">Great, you finished the activity!</translation>
         </message>
     </context>
     <context>
         <name>Activity advanced/behavior.xar:/Say stop</name>
         <message>
-            <location filename="Activity advanced/behavior.xar" line="0"/>
             <source>Okay, let's stop!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, let's stop!</translation>
+            <translation type="obsolete">Okay, let's stop!</translation>
         </message>
     </context>
     <context>
@@ -78,10 +72,9 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="Activity/behavior.xar" line="0"/>
             <source>Great, you finished the activity!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Great, you finished the activity!</translation>
+            <translation type="obsolete">Great, you finished the activity!</translation>
         </message>
     </context>
     <context>
@@ -490,10 +483,9 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="hello/behavior.xar" line="0"/>
             <source>Hello Pietro</source>
             <comment>Text</comment>
-            <translation type="unfinished">Hello Pietro</translation>
+            <translation type="obsolete">Hello Pietro</translation>
         </message>
     </context>
     <context>
