@@ -159,6 +159,96 @@
         </message>
     </context>
     <context>
+        <name>Paperplane_activity/behavior.xar:/Animated Say</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Okay, let's start it!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's start it!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Failure speech</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Don't worry, that happens to everyone!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Don't worry, that happens to everyone!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Would you like to start over, redo last step, or stop the activity?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Would you like to start over, redo last step, or stop the activity?</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say (1)</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say (2)</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say (3)</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say (4)</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Okay, that's not a problem, we'll do later!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, that's not a problem, we'll do later!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say (5)</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Okay, let's restart!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's restart!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say end</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Great, you finished the activity!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Great, you finished the activity!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Paperplane_activity/behavior.xar:/Say stop</name>
+        <message>
+            <location filename="Paperplane_activity/behavior.xar" line="0"/>
+            <source>Okay, let's stop!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, let's stop!</translation>
+        </message>
+    </context>
+    <context>
         <name>Reminder/behavior.xar:/Say</name>
         <message>
             <source>Hello</source>
