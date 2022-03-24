@@ -89,19 +89,29 @@
     <context>
         <name>Meal Reminder/behavior.xar:/Say</name>
         <message>
-            <location filename="Meal Reminder/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you. Do you want to do it now?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+            <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
+        </message>
+        <message>
+            <location filename="Meal Reminder/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Do you want to have meal now?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Do you want to have meal now?</translation>
         </message>
     </context>
     <context>
         <name>Meal Reminder/behavior.xar:/Say (1)</name>
         <message>
-            <location filename="Meal Reminder/behavior.xar" line="0"/>
             <source>Okay, that's not a problem, Please do remember to take the medicine!!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, that's not a problem, Please do remember to take the medicine!!</translation>
+            <translation type="obsolete">Okay, that's not a problem, Please do remember to take the medicine!!</translation>
+        </message>
+        <message>
+            <location filename="Meal Reminder/behavior.xar" line="0"/>
+            <source>Okay, that's not a problem, Please do remember to have the meal!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, that's not a problem, Please do remember to have the meal!</translation>
         </message>
     </context>
     <context>
@@ -259,28 +269,43 @@
     <context>
         <name>WakeUp/behavior.xar:/Animated Say</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Okay, let's start it!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, let's start it!</translation>
+            <translation type="obsolete">Okay, let's start it!</translation>
+        </message>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Okay!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay!</translation>
         </message>
     </context>
     <context>
         <name>WakeUp/behavior.xar:/Animated Say (1)</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Okay, let's start it!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, let's start it!</translation>
+            <translation type="obsolete">Okay, let's start it!</translation>
+        </message>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Well!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Well!</translation>
         </message>
     </context>
     <context>
         <name>WakeUp/behavior.xar:/Say</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you. Do you want to do it now?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+            <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
+        </message>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you.</translation>
         </message>
     </context>
     <context>
@@ -295,10 +320,15 @@
     <context>
         <name>WakeUp/behavior.xar:/Say (3)</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you. Do you want to do it now?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+            <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
+        </message>
+        <message>
+            <location filename="WakeUp/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you.</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you.</translation>
         </message>
     </context>
     <context>
