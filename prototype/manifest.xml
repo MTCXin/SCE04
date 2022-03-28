@@ -12,9 +12,6 @@
  <contents>
   <behaviorContent path="Reminder">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="evaluation_activity">
@@ -23,16 +20,10 @@
   </behaviorContent>
   <behaviorContent path="Medication Remind">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Meal Reminder">
    <nature>interactive</nature>
-   <triggerSentences/>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="WakeUp">
