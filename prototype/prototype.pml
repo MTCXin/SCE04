@@ -4,7 +4,6 @@
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="Reminder" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="time_reminder" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="evaluation_activity" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Medication Remind" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Meal Reminder" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="WakeUp" xar="behavior.xar" />
@@ -35,6 +34,7 @@
         <File name="MedR" src="html/MedR.png" />
         <File name="calendar_event_location_you_have_to_go" src="html/calendar_event_location_you_have_to_go.png" />
         <File name="calendar_event_reminder_social_event" src="html/calendar_event_reminder_social_event.png" />
+        <File name="great_job" src="html/great_job.png" />
     </Resources>
     <Topics>
         <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />

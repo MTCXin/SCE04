@@ -12,22 +12,30 @@
  <contents>
   <behaviorContent path="Reminder">
    <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="evaluation_activity">
-   <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Medication Remind">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Meal Reminder">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="WakeUp">
    <nature>interactive</nature>
+   <triggerSentences/>
+   <loadingResponses/>
+   <autonomous/>
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Paperplane_activity">
