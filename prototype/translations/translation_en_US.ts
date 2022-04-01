@@ -269,37 +269,69 @@
     <context>
         <name>Medication Remind/behavior.xar:/Say</name>
         <message>
-            <location filename="Medication Remind/behavior.xar" line="0"/>
             <source>Well done, It's a nice progress of you!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Well done, It's a nice progress of you!</translation>
+            <translation type="obsolete">Well done, It's a nice progress of you!</translation>
         </message>
     </context>
     <context>
         <name>Medication Remind/behavior.xar:/Say (3)</name>
         <message>
-            <location filename="Medication Remind/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you. Do you want to do it now?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you. Do you want to do it now?</translation>
+            <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
         </message>
     </context>
     <context>
         <name>Medication Remind/behavior.xar:/Say (4)</name>
         <message>
-            <location filename="Medication Remind/behavior.xar" line="0"/>
             <source>Okay, that's not a problem, Please do remember to take the medicine!!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, that's not a problem, Please do remember to take the medicine!!</translation>
+            <translation type="obsolete">Okay, that's not a problem, Please do remember to take the medicine!!</translation>
         </message>
     </context>
     <context>
         <name>Medication Remind/behavior.xar:/Say stop</name>
         <message>
-            <location filename="Medication Remind/behavior.xar" line="0"/>
             <source>Okay, let's stop!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, let's stop!</translation>
+            <translation type="obsolete">Okay, let's stop!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Medication Reminder/behavior.xar:/Animated Say</name>
+        <message>
+            <location filename="Medication Reminder/behavior.xar" line="0"/>
+            <source></source>
+            <comment>Text</comment>
+            <translation></translation>
+        </message>
+    </context>
+    <context>
+        <name>Medication Reminder/behavior.xar:/NU</name>
+        <message>
+            <location filename="Medication Reminder/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Have you already taken it?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Have you already taken it?</translation>
+        </message>
+    </context>
+    <context>
+        <name>Medication Reminder/behavior.xar:/Say No</name>
+        <message>
+            <location filename="Medication Reminder/behavior.xar" line="0"/>
+            <source>That's alright, but please take it!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">That's alright, but please take it!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Medication Reminder/behavior.xar:/Say Yes</name>
+        <message>
+            <location filename="Medication Reminder/behavior.xar" line="0"/>
+            <source>Well done! You'll stay healthy for long!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Well done! You'll stay healthy for long!</translation>
         </message>
     </context>
     <context>
@@ -484,10 +516,9 @@
     <context>
         <name>Reminder/behavior.xar:/NU</name>
         <message>
-            <location filename="Reminder/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you. Have you already taken it?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you. Have you already taken it?</translation>
+            <translation type="obsolete">Sorry, I didn't understand you. Have you already taken it?</translation>
         </message>
     </context>
     <context>
@@ -522,19 +553,17 @@
     <context>
         <name>Reminder/behavior.xar:/Say No</name>
         <message>
-            <location filename="Reminder/behavior.xar" line="0"/>
             <source>That's alright, but please take it!</source>
             <comment>Text</comment>
-            <translation type="unfinished">That's alright, but please take it!</translation>
+            <translation type="obsolete">That's alright, but please take it!</translation>
         </message>
     </context>
     <context>
         <name>Reminder/behavior.xar:/Say Yes</name>
         <message>
-            <location filename="Reminder/behavior.xar" line="0"/>
             <source>Well done! You'll stay healthy for long!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Well done! You'll stay healthy for long!</translation>
+            <translation type="obsolete">Well done! You'll stay healthy for long!</translation>
         </message>
     </context>
     <context>
@@ -553,10 +582,9 @@
             <translation type="obsolete">Okay, let's start it!</translation>
         </message>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Okay!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay!</translation>
+            <translation type="obsolete">Okay!</translation>
         </message>
     </context>
     <context>
@@ -567,10 +595,9 @@
             <translation type="obsolete">Okay, let's start it!</translation>
         </message>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Well!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Well!</translation>
+            <translation type="obsolete">Well!</translation>
         </message>
     </context>
     <context>
@@ -581,19 +608,17 @@
             <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
         </message>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+            <translation type="obsolete">Sorry, I didn't understand you.</translation>
         </message>
     </context>
     <context>
         <name>WakeUp/behavior.xar:/Say (1)</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Okay, that's not a problem, we'll do later!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, that's not a problem, we'll do later!</translation>
+            <translation type="obsolete">Okay, that's not a problem, we'll do later!</translation>
         </message>
     </context>
     <context>
@@ -604,28 +629,25 @@
             <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
         </message>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you.</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you.</translation>
+            <translation type="obsolete">Sorry, I didn't understand you.</translation>
         </message>
     </context>
     <context>
         <name>WakeUp/behavior.xar:/Say (4)</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Okay, that's not a problem, we'll do later!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, that's not a problem, we'll do later!</translation>
+            <translation type="obsolete">Okay, that's not a problem, we'll do later!</translation>
         </message>
     </context>
     <context>
         <name>WakeUp/behavior.xar:/Say stop</name>
         <message>
-            <location filename="WakeUp/behavior.xar" line="0"/>
             <source>Okay, let's stop!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, let's stop!</translation>
+            <translation type="obsolete">Okay, let's stop!</translation>
         </message>
     </context>
     <context>
@@ -870,34 +892,30 @@
     <context>
         <name>time_reminder/behavior.xar:/First Reminder</name>
         <message>
-            <location filename="time_reminder/behavior.xar" line="0"/>
             <source>You have to take your medicine at</source>
             <comment>TextBefore</comment>
-            <translation type="unfinished">You have to take your medicine at</translation>
+            <translation type="obsolete">You have to take your medicine at</translation>
         </message>
         <message>
-            <location filename="time_reminder/behavior.xar" line="0"/>
             <source>Did you already take it?</source>
             <comment>TextAfter</comment>
-            <translation type="unfinished">Did you already take it?</translation>
+            <translation type="obsolete">Did you already take it?</translation>
         </message>
     </context>
     <context>
         <name>time_reminder/behavior.xar:/Negative Response</name>
         <message>
-            <location filename="time_reminder/behavior.xar" line="0"/>
             <source>Please make sure you take your medicine!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Please make sure you take your medicine!</translation>
+            <translation type="obsolete">Please make sure you take your medicine!</translation>
         </message>
     </context>
     <context>
         <name>time_reminder/behavior.xar:/Positive Response</name>
         <message>
-            <location filename="time_reminder/behavior.xar" line="0"/>
             <source>Good Job!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Good Job!</translation>
+            <translation type="obsolete">Good Job!</translation>
         </message>
     </context>
 </TS>

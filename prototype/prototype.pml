@@ -2,20 +2,14 @@
 <Package name="prototype" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="Reminder" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="time_reminder" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="Medication Remind" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Meal Reminder" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="WakeUp" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Gardening Activity" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Paperplane Activity" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Medication Reminder" xar="behavior.xar" />
     </BehaviorDescriptions>
-    <Dialogs>
-        <Dialog name="ExampleDialog" src="time_reminder/ExampleDialog/ExampleDialog.dlg" />
-    </Dialogs>
+    <Dialogs />
     <Resources>
         <File name="530265__dominictreis__morning-transition-music" src="sounds/530265__dominictreis__morning-transition-music.wav" />
-        <File name="choice_sentences_light" src="time_reminder/Aldebaran/choice_sentences_light.xml" />
         <File name="test" src="html/test.png" />
         <File name="pp1" src="html/pp1.png" />
         <File name="pp2" src="html/pp2.png" />
@@ -36,9 +30,7 @@
         <File name="calendar_event_reminder_social_event" src="html/calendar_event_reminder_social_event.png" />
         <File name="great_job" src="html/great_job.png" />
     </Resources>
-    <Topics>
-        <Topic name="ExampleDialog_enu" src="time_reminder/ExampleDialog/ExampleDialog_enu.top" topicName="ExampleDialog" language="en_US" />
-    </Topics>
+    <Topics />
     <IgnoredPaths />
     <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package version="0.0.0" uuid="prototype-77cb3f">
+<package uuid="prototype-77cb3f" version="0.0.0">
  <names>
   <name lang="en_US">Untitled</name>
  </names>
@@ -10,19 +10,7 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="Reminder">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="Medication Remind">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
   <behaviorContent path="Meal Reminder">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="WakeUp">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
