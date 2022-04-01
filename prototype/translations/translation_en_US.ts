@@ -246,10 +246,15 @@
     <context>
         <name>Meal Reminder/behavior.xar:/Say Yes</name>
         <message>
-            <location filename="Meal Reminder/behavior.xar" line="0"/>
             <source>It's great, I hope you enjoy the meal, see you later!</source>
             <comment>Text</comment>
-            <translation type="unfinished">It's great, I hope you enjoy the meal, see you later!</translation>
+            <translation type="obsolete">It's great, I hope you enjoy the meal, see you later!</translation>
+        </message>
+        <message>
+            <location filename="Meal Reminder/behavior.xar" line="0"/>
+            <source>It's great, I hope you enjoyed the meal, see you later!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">It's great, I hope you enjoyed the meal, see you later!</translation>
         </message>
     </context>
     <context>
