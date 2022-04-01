@@ -182,6 +182,15 @@
         </message>
     </context>
     <context>
+        <name>Meal Reminder/behavior.xar:/NU</name>
+        <message>
+            <location filename="Meal Reminder/behavior.xar" line="0"/>
+            <source>Sorry, I didn't understand you. Do you want to have meal now?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Sorry, I didn't understand you. Do you want to have meal now?</translation>
+        </message>
+    </context>
+    <context>
         <name>Meal Reminder/behavior.xar:/Say</name>
         <message>
             <source>Sorry, I didn't understand you. Do you want to do it now?</source>
@@ -189,10 +198,9 @@
             <translation type="obsolete">Sorry, I didn't understand you. Do you want to do it now?</translation>
         </message>
         <message>
-            <location filename="Meal Reminder/behavior.xar" line="0"/>
             <source>Sorry, I didn't understand you. Do you want to have meal now?</source>
             <comment>Text</comment>
-            <translation type="unfinished">Sorry, I didn't understand you. Do you want to have meal now?</translation>
+            <translation type="obsolete">Sorry, I didn't understand you. Do you want to have meal now?</translation>
         </message>
     </context>
     <context>
@@ -208,10 +216,9 @@
             <translation type="obsolete">Okay, that's not a problem, Please do remember to have the meal!</translation>
         </message>
         <message>
-            <location filename="Meal Reminder/behavior.xar" line="0"/>
             <source>Okay, that's not a problem. Don't forget to eat soon!</source>
             <comment>Text</comment>
-            <translation type="unfinished">Okay, that's not a problem. Don't forget to eat soon!</translation>
+            <translation type="obsolete">Okay, that's not a problem. Don't forget to eat soon!</translation>
         </message>
     </context>
     <context>
@@ -221,6 +228,23 @@
             <comment>Text</comment>
             <translation type="obsolete">Well done, It's a nice progress of you!</translation>
         </message>
+        <message>
+            <source>It's great, I hope you enjoy the meal, see you later!</source>
+            <comment>Text</comment>
+            <translation type="obsolete">It's great, I hope you enjoy the meal, see you later!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Meal Reminder/behavior.xar:/Say No</name>
+        <message>
+            <location filename="Meal Reminder/behavior.xar" line="0"/>
+            <source>Okay, that's not a problem. Don't forget to eat soon!</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Okay, that's not a problem. Don't forget to eat soon!</translation>
+        </message>
+    </context>
+    <context>
+        <name>Meal Reminder/behavior.xar:/Say Yes</name>
         <message>
             <location filename="Meal Reminder/behavior.xar" line="0"/>
             <source>It's great, I hope you enjoy the meal, see you later!</source>
