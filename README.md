@@ -1,10 +1,13 @@
 # SCE04
 
 Prototype made for the course of TUD, EWI, CS4235 Socio-Cognitive Engineering.
+
 Group 4. Haoran Wang, Manolo Xin, Mathieu Jung-Muller, Pierre Bongrand, Pietro Piccini, Sneha Lodha.
+
 For questions on the code, please contact Mathieu Jung-Muller (mathieu.jung-muller@student.tudelft.nl).
 
 This code is adapted for the Choregraphe framework and for a Pepper robot. It may not work if you want to open it on other platforms or using different software.
+
 
 There are four behaviours implemented.
 For a more extensive explanation on them, please check out our XWiki written for this course: https://xwiki.ewi.tudelft.nl/xwiki/wiki/sce2022group04/view/Prototype/.
